@@ -23,7 +23,7 @@ A sleek and animated bill-splitting React app to keep track of what you owe your
 
 ## 📷 Demo Preview
 
-> Coming soon:
+> (Eat N Split)[https://split-with-friends.netlify.app/]
 
 ---
 
