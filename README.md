@@ -40,8 +40,8 @@ A sleek and animated bill-splitting React app to keep track of what you owe your
 
 ```mermaid
 pie title Tech Stack Breakdown
-  "React" : 40
-  "CSS Animations & Effects" : 30
-  "UX/UI Design" : 20
-  "JavaScript Logic" : 10
+  "React" : 55
+  "CSS" : 30
+  "JavaScript" : 10
+  "HTML" : 5
 ```
